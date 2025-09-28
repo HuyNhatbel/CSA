@@ -1,0 +1,17 @@
+Bước 1:
+Những yếu tố nào ảnh hưởng tới điểm Toán của học sinh?
+Bước 2:
+Thu thập các dữ liệu:
+- Điểm kiểm tra toán của học sinh
+- Hoàn cảnh gia đình
+- Phương pháp dạy học của học sinh
+- Thói quen học tập với môn Toán
+- Số giờ học mỗi ngày
+Thu thập từ: học bạ, phụ huynh, giáo viên, học sinh
+Bước 3: Làm sạch, chuẩn hóa dữ liệu, mã hóa dữ liệu định tính
+Bước 4: 
+- Sử dụng thống kê mô tả: trung bình, độ lệch chuẩn điểm Toán
+- Dùng biểu đồ để so sánh học sinh với nhau
+Bước 5:
+- Báo cáo kết quả, nêu yêu tố quan trọng nhất
+- Đề xuất những biện pháp khả thi
